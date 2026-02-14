@@ -30,7 +30,8 @@ objdump -s programme
 
 **autres options : **
 
-``bash 
+```bash 
 objdump -d programme
 ```
+
 Montre l'assembleur avec de l'aide.
